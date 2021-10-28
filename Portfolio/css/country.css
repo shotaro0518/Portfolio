@@ -1,20 +1,29 @@
 /* country */
 .transparent__cover {
     height: 100%;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0);
 }
 /* イギリス */
 .article__country__1 {
-    background-image:url(../country/UnitedKingdom/ntf_305.svg);
+    background-image:url(../country/UnitedKingdom/JSsumNail.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
     height: 100%;
 }
+/* イギリス */
+/* .article__country__1 {
+    background-image:url(../country/UnitedKingdom/ntf_305.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+} */
 /* ベルギー */
 .article__country__2 {
-    background-image:url(../country/Belgium/ntf_330.svg);
+    background-image:url(../country/Germany/3DJavaScript.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -23,7 +32,25 @@
 }
 /* デンマーク */
 .article__country__3 {
+    background-image:url(../country/Denmark/jewel.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+/* デンマーク */
+/* .article__country__3 {
     background-image:url(../country/Denmark/ntf_321.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+} */
+/* イタリア */
+.article__country__4 {
+    background-image:url(../country/Italy/nabe.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -31,17 +58,17 @@
     height: 100%;
 }
 /* イタリア */
-.article__country__4 {
+/* .article__country__4 {
     background-image:url(../country/Italy/ntf_306.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
     height: 100%;
-}
+} */
 /* ドイツ */
 .article__country__5 {
-    background-image:url(../country/Germany/ntf_322.svg);
+    background-image:url(../country/Belgium/ntf_330.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
